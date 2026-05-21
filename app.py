@@ -1,13 +1,12 @@
 # =============================================================================
 # AI-Based Cognitive Bias Detection & Behavioral Analysis System
-# IIM Ranchi AI Summer Project | Annexure C / ACM-87
+# Summer AI Project | Annexure C / ACM-87
 #
-# Author: [Your Name] | Roll No: [Your Roll No]
-# Supervisor: [Faculty Supervisor Name]
+# Author: [Veerla Yogitha] | Roll No: [IPM54-25]
+# Supervisor: [Prof. Tanusree Dutta]
 #
 # ABOUT THE DATASET:
-# The 8 questions below were selected from a 20-question behavioral survey
-# administered to 42 IIM Ranchi students. Questions were selected based on:
+# The 8 questions below were selected from a 20-question behavioral survey. Questions were selected based on:
 #   1. High discriminative power (spread of responses across options)
 #   2. Clear behavioral signal for the target bias
 #   3. Realistic, relatable scenarios
