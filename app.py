@@ -919,7 +919,7 @@ def page_results():
 
     st.markdown("""
     <div class="footer">
-        <strong>CognitiveLens</strong> · AI Summer Project · IIM Ranchi 2025<br>
+        <strong>CognitiveLens</strong> · Summer AI Project · IIM Ranchi 2026<br>
         "AI-Based Identification of Cognitive Biases in Human Decision-Making and Their Role in Errors and Accidents"<br>
         <span style="color:#bbb;">Results are for academic and reflective purposes only.</span>
     </div>
