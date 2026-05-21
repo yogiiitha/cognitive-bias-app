@@ -615,7 +615,7 @@ def page_home():
     # Hero banner
     st.markdown("""
     <div class="hero-banner">
-        <div class="hero-tag">🎓 IIM Ranchi · AI Summer Project</div>
+        <div class="hero-tag">Summer AI Project</div>
         <h1>🧠 CognitiveLens</h1>
         <h1 style="font-size:1.1rem; font-weight:400; opacity:0.85;">
             AI-Based Cognitive Bias Detection &amp; Behavioral Analysis System
@@ -664,7 +664,7 @@ def page_home():
         <h4>⚙️ How the AI Classification Works</h4>
         <p>
             Your responses are mapped against a <strong>behavioral scoring framework</strong> calibrated on
-            42 survey responses collected from IIM Ranchi students. Each answer carries a bias-signal weight (0–3).
+            42 survey responses. Each answer carries a bias-signal weight (0–3).
             The system aggregates signals across questions to produce a bias intensity profile, then identifies
             your dominant behavioral tendency using a rule-based classification engine.
         </p>
